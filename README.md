@@ -1,5 +1,3 @@
-![](screenshots/nyc_airbnb.jp)
-<br/>
 
 Exploratory Data Analysis<br/>
 [Tableau](https://public.tableau.com/shared/WK3CCPQ9B?:display_count=n&:origin=viz_share_link) <br/>
