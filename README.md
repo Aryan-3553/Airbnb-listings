@@ -1,4 +1,4 @@
-* ![](screenshots/nyc_airbnb.jp)
+![](screenshots/nyc_airbnb.jp)
 <br/>
 
 Exploratory Data Analysis<br/>
