@@ -1,4 +1,4 @@
-![](screenshots/nyc_airbnb.jpg)
+* ![](screenshots/nyc_airbnb.jp)
 <br/>
 
 Exploratory Data Analysis<br/>
@@ -30,6 +30,5 @@ Exploratory Data Analysis<br/>
 * Excel
 * SQL (SQL Server Management Studio)
 * Tableau
-* Figma
 * Mapbox
 * Python (pandas, seaborn, matplotlib)
